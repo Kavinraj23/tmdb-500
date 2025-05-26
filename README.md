@@ -25,7 +25,7 @@ This project leverages metadata from The Movie Database (TMDB) to build a machin
 
 ├── outputs/ # Saved plots, and results
 
-├── utils/ # Helper functions and scripts (if any)
+├── scripts/ # Scripts to collect data
 
 └── README.md
 
