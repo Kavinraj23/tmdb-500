@@ -18,9 +18,13 @@ This project leverages metadata from The Movie Database (TMDB) to build a machin
 
 ## Project Structure
 ├── data/ # Raw and processed data files
+
 ├── notebooks/ # Jupyter notebooks for EDA and modeling
+
 ├── outputs/ # Saved models, plots, and results
+
 ├── utils/ # Helper functions and scripts (if any)
+
 └── README.md
 
 ## Getting Started
