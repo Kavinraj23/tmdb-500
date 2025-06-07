@@ -41,6 +41,7 @@ This project leverages metadata from The Movie Database (TMDB) to build a machin
 ## Results
 
 The best-performing model achieved an R² score of 0.7249 and an Adjusted R² score of 0.7124. Key predictors of revenue included budget, popularity, and release year.
+I aim to further improve these accuracy metrics by exploring additional modeling techniques and feature engineering methods.
 
 ## Future Work
 - Clean up notebooks and include SHAP analysis diagrams in outputs
